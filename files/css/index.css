@@ -20,6 +20,6 @@ h1.main-title {
 }
 img.unionflag {
 	width: auto;
-	height: 50%;
+	height: calc(height/2);
 	text-align: center;
 }
