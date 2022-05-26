@@ -18,3 +18,8 @@ body {
 h1.main-title {
 	text-align: center;
 }
+img.unionflag {
+	width: auto;
+	max-height: 50%;
+	text-align: center;
+}
